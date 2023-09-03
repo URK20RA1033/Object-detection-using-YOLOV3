@@ -1,11 +1,11 @@
-# Object-detection-using-YOLOV3
+# Object detection using YOLOV3
 
 A real-time object detection system called YOLOv3 (You Only Look Once, Version 3) recognises particular things in films, live feeds, or still photos. It is a CNN-based method that accurately detects objects in real time using a single neural network architecture.  
 
 **REQUIREMENTS:**
 
-a). Pycharm (compiler)
-b). Open cv(library)
+# a). Pycharm (compiler)
+# b). Open cv(library)
 c). Numpy(library)
 d). Camera(laptop or external)
 
