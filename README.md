@@ -4,30 +4,30 @@ A real-time object detection system called YOLOv3 (You Only Look Once, Version 3
 
 **REQUIREMENTS:**
 
-a. Pycharm (compiler)<br />
-b. Open cv(library)<br />
-c. Numpy(library)<br />
-d. Camera(laptop or external)<br />
+a. Pycharm (compiler)
+b. Open cv(library)
+c. Numpy(library)
+d. Camera(laptop or external)
 
 **Datasets:**
 
 There are three types of datasets has been used
 
-a) Yolov3.weights<br />
-b) Yolov3.cfg<br />
-c) Coco. Names<br />
+a) Yolov3.weights
+b) Yolov3.cfg
+c) Coco. Names
 
 The model is trained using ARTIFICIAL NEURAL NETWORK.Under Supervised learning. These datasets consist of the configuration, Training weights and the classes under the name of COCO. NAMES which has 80 trained class for object detection.
 
 **Source link:**
 
-Yolo - (https://pjreddie.com/darknet/yalo/)<br />
-Yolov3.weights-(https://pjreddie.com/media/files/yolov3.weights)<br />
-Yolov3.cfg-(https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg)<br />
-Coco. Names-(https://github.com/pjreddie/darknet/blob/master/data/coco.names)<br />
+Yolo - (https://pjreddie.com/darknet/yalo/)
+Yolov3.weights-(https://pjreddie.com/media/files/yolov3.weights)
+Yolov3.cfg-(https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg)
+Coco. Names-(https://github.com/pjreddie/darknet/blob/master/data/coco.names)
 
 **Steps to follow**
 
-1.Download weights,configuration(cfg),class files from the given above link<br />
-2.Upload the files to the folder where the algorithm is saved in your desktop <br />
-3.Run the program.<br />
+1.Download weights,configuration(cfg),class files from the given above link
+2.Upload the files to the folder where the algorithm is saved in your desktop 
+3.Run the program.
