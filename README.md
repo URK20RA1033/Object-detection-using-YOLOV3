@@ -29,5 +29,5 @@ Coco. Names-(https://github.com/pjreddie/darknet/blob/master/data/coco.names)
 **Steps to follow**
 
 1.Download weights,configuration(cfg),class files from the given above link
-2.Upload the files to the folser where the algorithm is saved in your desktop 
+2.Upload the files to the folder where the algorithm is saved in your desktop 
 3.Run the program.
