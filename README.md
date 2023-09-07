@@ -4,7 +4,10 @@ A real-time object detection system called YOLOv3 (You Only Look Once, Version 3
 
 **REQUIREMENTS:**
 
-a). Pycharm (compiler)\nb). Open cv(library)\nc). Numpy(library)\nd). Camera(laptop or external)
+a). Pycharm (compiler)
+b). Open cv(library)
+c). Numpy(library)
+d). Camera(laptop or external)
 
 
 **Datasets:**
